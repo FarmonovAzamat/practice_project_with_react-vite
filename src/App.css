@@ -1,0 +1,19 @@
+.section1{
+  background-image: url(./assets/bg1.svg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+
+}
+.container{
+  max-width: 1500px;
+  margin: 0 auto;
+}
+.section8{
+  background-image: url(./assets/bg2.svg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  
+
+}
